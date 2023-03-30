@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.ignoreWords": [
+        "Pressable",
+        "backgroundimg"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
