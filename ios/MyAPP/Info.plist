@@ -9,6 +9,20 @@
 		<string>DancingScript-Regular.ttf</string>
 		<string>IndieFlower-Regular.ttf</string>
 	</array>
+	<!-- <key>NSCameraUsageDescription</key>
+    <string>App Wants to access Camera</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>App Wants to access Galary</string> -->
+
+	<key>NSCameraUsageDescription</key>
+<string>Your message to user for camera permission request</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>Your message to user for microphone permission request</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Your message to user for photo library permission request</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>Your message to user for photo library add permission request</string>
+
 	<key>CFBundleGetInfoString</key>
 	<string/>
 	<key>LSApplicationCategoryType</key>
